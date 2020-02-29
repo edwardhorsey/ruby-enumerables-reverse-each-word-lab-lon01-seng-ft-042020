@@ -5,5 +5,5 @@ def reverse_each_word(string)
     word.reverse
   }
   
-  string
+return string_split
 end
